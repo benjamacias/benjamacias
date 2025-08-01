@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 - 👨‍🎓 Técnico Superior en Desarrollo de Software (formación adicional en UTN).
-- 🐍 Especializado en **Python**, **Odoo**, **Docker**, **Kubernetes**, **Ionic** y **React**.
+- 🐍 Especializado en **Python**, **Odoo**, **PHP**, **Docker**, **Kubernetes**, **Ionic** y **React**.
 - 🧾 Creador de **countSistem**, proyecto que me permitió entender la complejidad de procesos de negocio.
 - 🤖 Mi mayor logro técnico: el desarrollo de mi **propia IA entrenada desde cero**.
 - ♟️ Apasionado por **resolver problemas**, **jugar ajedrez**, **armar Legos**, **Yu-Gi-Oh** y **aprender diferentes tematicas**.
