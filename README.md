@@ -34,7 +34,8 @@
 
 ## 📫 Contacto
 - ✉️ [benjamacias01@gmail.com](mailto:benjamacias01@gmail.com)
-- 🌐 [Portfolio](https://consolacv-production.up.railway.app)
+- 🌐 [Portfolio](https://sistemasbm-tech.com/)
+- 🌐 [Portal de noticias](https://newsbm-tech.com/)
 
 ---
 
