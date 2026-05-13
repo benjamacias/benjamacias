@@ -46,5 +46,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benjamacias&theme=radical)
 
 ---
-⚡ *"La programación es logica y arte, pero no al punto de llegar a la fantasmeada, mi ideal es transformar ideas en soluciones tecnológicas reales, pero el mundo solo quiere plata en mas plata y yo tambien.  
+⚡ *"La programación es logica y arte, pero no al punto de llegar a la fantasmeada, mi ideal es transformar ideas en soluciones tecnológicas reales, pero el mundo solo quiere plata y yo tambien.  
 https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/solutions/7024672/cansado-si-crees-que-esto-importa-estas-3mqgn"*
